@@ -4,6 +4,9 @@ In this project I had to create a scraper to scrape data of some products from c
 I chose Etsy and with this scraper I can scrape data about product listings such as `title`, `price`, `rating`, 
 `reviews count`, `item url`, and `image url` with selected keyword.
 
+## Results
+Results from the database can be seen in `data_export.csv` and screenshot files.
+
 ## Setup instructions
 In order to use this scraper with your own database your `create_connection.py` file should look like this:
 ```
